@@ -34,6 +34,7 @@ Sinta-se livre para utilizar qualquer biblioteca adicional com seu projeto.
 - Criatividade;
 - Modularidade;
 - Código limpo e organização;
+- Semântica;
 - Quantidade de funcionalidades básicas e extra;
 - Performance;
 - Documentação do projeto (README).
