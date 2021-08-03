@@ -1,6 +1,6 @@
 ![Logo Viajar Faz Bem](https://viajarfazbem.com/images/logo-viajar-faz-bem-portal.svg)
 
-Essa prova consiste em testar seus conhecimentos com HTML, CSS, JavaScript entre outras coisas.  
+Nosso objetivo é analisar seus conhecimentos com HTML, CSS, Javascript entre outras coisas.  
 
 ## Instruções
 Criar uma página com  personagens da Marvel, utilizando como fonte de dados a **api oficial da Marvel**, seguindo as **especificações do protótipo**.
