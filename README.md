@@ -3,7 +3,12 @@
 Essa prova consiste em testar seus conhecimentos com HTML, CSS, JavaScript entre outras coisas.  
 
 ## Instruções
-Criar uma [página contendo listagem de personagens da Marvel](https://xd.adobe.com/spec/f6a84bef-95b8-4c0e-5126-ebac4f9aa822-8099/grid), utilizando a [API oficial da Marvel](https://developer.marvel.com/) como fonte de dados.
+Criar uma página com  personagens da Marvel, utilizando como fonte de dados a **api oficial da Marvel**, seguindo as **especificações do protótipo**.
+- [Protótipo](https://xd.adobe.com/spec/f6a84bef-95b8-4c0e-5126-ebac4f9aa822-8099/grid)
+- [API oficial da Marvel](https://developer.marvel.com/)
+
+**É imprescindível que sejam seguidas as orientações do layout**, mas você pode ficar a vontade para adicionar novas funcionalidades.
+
 ## Entrega mínima esperada
 
 - Página responsiva
@@ -15,6 +20,7 @@ Criar uma [página contendo listagem de personagens da Marvel](https://xd.adobe.
 	- Pantera Negra
 	- Thanos
 	- Homem de Ferro
+- Lista com personagens contendo uma paginação
 - Funcionalidades extras serão bem-vindas
 
 ## Tecnologias
@@ -30,10 +36,11 @@ Sinta-se livre para utilizar qualquer biblioteca adicional com seu projeto.
 - Código limpo e organização;
 - Quantidade de funcionalidades básicas e extra;
 - Performance;
-- Documentação do projeto (readme).
+- Documentação do projeto (README).
+- Tempo de entrega
 
 ## Entrega
 
-Crie um repositório no GitHub com o seu projeto. Caso o projeto seja privado, compartilhe o repositório com os usuário `adrianosbtur e rafaelnogueira1`.
+Crie um repositório no GitHub com o seu projeto. Caso o projeto seja privado, compartilhe o repositório com os usuário `adrianosbtur` e `rafaelnogueira1`.
 
 Utilize o README para explicar o funcionamento, solução adotada e como deve ser executado.
