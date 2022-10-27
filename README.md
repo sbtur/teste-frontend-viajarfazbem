@@ -42,6 +42,6 @@ Sinta-se livre para utilizar qualquer biblioteca adicional com seu projeto.
 
 ## Entrega
 
-Crie um repositório no GitHub com o seu projeto. Caso o projeto seja privado, compartilhe o repositório com os usuário `adrianosbtur` e `rafaelnogueira1`.
+Crie um repositório no GitHub com o seu projeto. Caso o projeto seja privado, compartilhe o repositório com o `rafaelnogueira1`.
 
 Utilize o README para explicar o funcionamento, solução adotada e como deve ser executado.
